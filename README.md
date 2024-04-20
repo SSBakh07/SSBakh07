@@ -15,7 +15,7 @@ Hi! I'm Sheedeh Sharif-Bakhtiar and I'm an extremely passionate deep learning en
 ### Education:
 - MSc. in data science at Shahid Beheshti University (2021-2023)
      - My thesis was on applying visual transformers to predict the USD/EUR market (Forex). This was done by encoding temporal OHLC data into an image, and feeding that to several transformer-based encoders.
-- BSc. in computer engineering at Islamic Azad University (2018-2020)
+- BSc. in computer engineering at Islamic Azad University (2016-2020)
      - My final project was on swarm pathfinding (robotics) and designing an intelligent "manager" agent to prevent collisions while keeping things as efficient as possible.
 
 
