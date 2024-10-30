@@ -1,5 +1,6 @@
 Hi! I'm Sheedeh Sharif-Bakhtiar and I'm an extremely passionate deep learning engineer currently based in Tehran, Iran. I've been a freelance software developer and AI engineer for about 6 years now and I love working on new projects and learning new skills.
 
+Currently I work as a data scientist at [Financika](https://www.linkedin.com/company/financikateam/posts/?feedView=all) where I do quantative analysis and wrangle complex time-series data.
 
 ### Facts about me:
 - I'm Iranian-Canadian, and English is my first language, with Persian (Farsi) being my second language.
