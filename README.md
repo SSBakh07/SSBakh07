@@ -36,5 +36,4 @@ Currently I work as a data scientist at [Financika](https://www.linkedin.com/com
 
 
 ## If you'd like to contact me, feel free to reach out!
-- [Email](mailto:sheedehsharif@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/sheedeh-sharif-bakhtiar-491a4819a/)
+- [Email](mailto:ssbakh07@gmail.com)
